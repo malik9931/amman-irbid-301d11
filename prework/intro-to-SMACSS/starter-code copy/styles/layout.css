@@ -1,0 +1,28 @@
+#logo img {
+float: left;
+}
+
+nav ul {
+float: right;
+}
+
+nav li {
+float: left;
+padding-right: 2px;
+}
+
+.date {
+float: left;
+}
+
+.recipe li {
+float: left;
+}
+
+aside img {
+float: left;
+}
+
+aside button {
+float: right;
+}
